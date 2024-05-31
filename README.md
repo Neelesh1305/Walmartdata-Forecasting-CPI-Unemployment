@@ -8,14 +8,23 @@ The primary goal of this analysis is to predict the CPI and Unemployment rate fo
 The dataset comprises several key features:
 
 Store: The unique identifier for each Walmart store.
+
 Type: The type/category of the store.
+
 Size: The physical size of the store.
+
 Date: The specific week of the sales data.
+
 IsHoliday: A boolean indicator showing whether the week included a special holiday.
+
 Temperature: The average temperature in the region during that week.
+
 Fuel_Price: The cost of fuel in the region during that week.
+
 MarkDown1-5: Anonymized data representing various promotional markdowns by Walmart.
+
 CPI: The Consumer Price Index, which reflects the average change in prices paid by consumers over time.
+
 Unemployment: The unemployment rate in the region.
 
 #### Data Cleaning/feature engineering
